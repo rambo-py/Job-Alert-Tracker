@@ -1,4 +1,4 @@
-# Job-Alert-Tracker
+# Job Alert Tracker
 
 A Python script that queries the Adzuna Jobs API hourly and sends new entry-level job listings to a Discord channel via webhook.
 
